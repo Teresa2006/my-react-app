@@ -18,7 +18,7 @@ export default function Home() {
       <div className="box" > Box </div>
       <div className="box2" > Box </div>
       <img
-        src={'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cb402ebfc70f6cb272804ae0d485b55d~c5_720x720.jpeg?x-expires=1694383200&x-signature=LLahhHoz5mjisoUAV7FLTvifxsY%3D'}
+        src={'https://ih1.redbubble.net/image.2537398049.1291/mp,840x830,matte,f8f8f8,t-pad,1000x1000,f8f8f8.jpg'}
         className="imageclass"
       /> 
 
